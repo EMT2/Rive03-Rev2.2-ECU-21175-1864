@@ -1,0 +1,39 @@
+====================================================================
+KAWASAKI ZX-4RR MASTER GEARING & TRACK CONFIGURATION INDEX
+====================================================================
+Target RPM Limiter: 15,500 RPM  |  Dashboard Shift Light: 14,500 RPM
+Gearing Setup: Factory Stock   |  Rear Tire Size: 160/60-17
+====================================================================
+
+[1] SPEED-BY-GEAR REFERENCE CHART
+--------------------------------------------------------------------
+Gear   Peak Power Speed   Old Limiter Limit   New Over-Rev Ceiling   Net Velocity Gain
+       (14,500 RPM)       (15,200 RPM)        (15,500 RPM)           (vs. Stock 15.2k)
+--------------------------------------------------------------------
+1st       52.0 mph            54.5 mph               55.6 mph             +1.1 mph
+2nd       74.1 mph            77.7 mph               79.2 mph             +1.5 mph
+3rd       94.1 mph            98.6 mph              100.5 mph             +1.9 mph
+4th      114.2 mph           119.7 mph              122.1 mph             +2.4 mph
+5th      131.9 mph           138.3 mph              141.0 mph             +2.7 mph
+6th      146.8 mph           153.9 mph              157.0 mph             +3.0 mph
+--------------------------------------------------------------------
+
+[2] Rev2.2 TUNING ARCHITECTURE SUMMARY
+--------------------------------------------------------------------
+* Over-Rev Cushion: Opening a 1,000 RPM window past peak power removes 
+  the need for clumsy, temporary upshifts right before a corner 
+  braking zone, allowing the chassis to stay fully settled.
+  
+* Mechanical Tolerances: Factory valve springs maintain a safe 500 RPM 
+  buffer before hitting valve float limits (>16,000 RPM). Reciprocating 
+  mass stress levels remain comfortably within standard metallurgical 
+  fatigue boundaries.
+
+* Low/Full Power Map: ETV map capped to ~34% maximum airflow at the bottom 
+  end. Grid interpolation errors eliminated to ensure smooth, linear 
+  throttle tracking and predictable delivery. Restrictions removed.
+
+* Back-Torque Management: Integrated anti-wheel-hop engine braking 
+  control curves mitigate wheel hop and smooth chassis transitions 
+  during rapid corner entry downshifts.
+====================================================================
