@@ -1,7 +1,8 @@
 
+        ================================================================================
           KAWASAKI NINJA ZX-4RR — STANDALONE JDM UNRESTRICTION LOGIC
                      OFFICIAL CALIBRATION ARCHIVE: REV 2.2
-
+================================================================================
  TARGET CHASSIS: 2023 - 2026 US / CANADA KAWASAKI NINJA ZX-4RR
  TARGET ECU ID:   21175-1875 ONLY (DO NOT WRITE TO STANDARD BASE FOUR-CYLINDER ZX-4R)
  CONFIGURATION:  100% STOCK EXHAUST CATALYST CORE & STOCK INTERNALS
@@ -29,8 +30,6 @@
 3. LOW-END DEAD ZONE CORRECTION: Fixes the 2nd gear low-RPM (2k-3k) bogging 
    found in early un-restriction iterations. Throttle response is now perfectly 
    crisp and predictable from a dead stop.
-4. Resolves 1-2, 2-1 quick shifter false neutrals. (still being tested)
-5. Smooth decel when releasing/easing off/letting go of throttle in full power and rain mode.
 
 [3.0] CRITICAL MECHANICAL CONSTRAINTS & FLUID DISCLAIMER
 ================================================================================
@@ -92,6 +91,6 @@ apply customized parameters (such as enabling GP Shift / Race Quickshifter):
    file, implement your manual tweaks, and execute a fresh write over the stock 
    baseline. This guarantees zero data fragmentation inside the map sectors.
 
-
+================================================================================
   DEVELOPED BY THE COMMUNITY FOR THE COMMUNITY // ALIAS: rive03 // UNLOCKED PORT
-
+================================================================================
