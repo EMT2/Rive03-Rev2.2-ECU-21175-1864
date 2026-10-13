@@ -39,5 +39,4 @@
    in full-power and rain modes. Improved chassis stability and wet-surface traction.
 
 [3.0] CRITICAL MECHANICAL CONSTRAINTS & FLUID DISCLAIMER
---------------------------------------------------------------------------------
-1. Recommended for use with full synthetic oil and 93 AKI octane fuel
+1. RECOMMENDED FOR USE WITH FULL SYNTHETIC OIL, AND 93 AKI OCTANE FUEL
