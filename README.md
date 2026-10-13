@@ -1,12 +1,14 @@
 
-        ================================================================================
+================================================================================
           KAWASAKI NINJA ZX-4RR — STANDALONE JDM UNRESTRICTION LOGIC
                      OFFICIAL CALIBRATION ARCHIVE: REV 2.2
 ================================================================================
+
  TARGET CHASSIS: 2023 - 2026 US / CANADA KAWASAKI NINJA ZX-4RR
  TARGET ECU ID:   21175-1875 ONLY (DO NOT WRITE TO STANDARD BASE FOUR-CYLINDER ZX-4R)
  CONFIGURATION:  100% STOCK EXHAUST CATALYST CORE & STOCK INTERNALS
  DEVELOPMENT:    CLEAN STANDALONE BRANCH VIA FACTORY JAPANESE JDM MAP ARCHITECTURE
+ 
 ================================================================================
 
 [1.0] PERFORMANCE PROJECTION MATRIX
@@ -92,5 +94,7 @@ apply customized parameters (such as enabling GP Shift / Race Quickshifter):
    baseline. This guarantees zero data fragmentation inside the map sectors.
 
 ================================================================================
+
   DEVELOPED BY THE COMMUNITY FOR THE COMMUNITY // ALIAS: rive03 // UNLOCKED PORT
+  
 ================================================================================
