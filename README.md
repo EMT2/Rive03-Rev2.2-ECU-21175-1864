@@ -1,7 +1,6 @@
 
 
-          KAWASAKI NINJA ZX-4RR — STANDALONE JDM UNRESTRICTION LOGIC
-                     OFFICIAL CALIBRATION ARCHIVE: REV 2.2
+          KAWASAKI NINJA ZX-4RR — STANDALONE JDM UNRESTRICTION LOGIC OFFICIAL CALIBRATION ARCHIVE: REV 2.2
 
  TARGET CHASSIS: 2023 - 2026 US / CANADA KAWASAKI NINJA ZX-4RR
  
@@ -36,7 +35,7 @@
    crisp and predictable from a dead stop.
 4. Potentially resolves the false neutral issue for 1-2, and 2-1 quick shifter and
    clutch shifting
-5. Smoother decel when releasing/letting go/easing off/ throttle in full power and rain mode
+5. Smoother decel when releasing/letting go/easing off throttle in full power and rain mode
 
 [3.0] CRITICAL MECHANICAL CONSTRAINTS & FLUID DISCLAIMER
 ================================================================================
