@@ -33,9 +33,10 @@
 3. LOW-END DEAD ZONE CORRECTION: Fixes the 2nd gear low-RPM (2k-3k) bogging 
    found in early un-restriction iterations. Throttle response is now perfectly 
    crisp and predictable from a dead stop.
-4. Potentially resolves the false neutral issue for 1-2, and 2-1 quick shifter and
-   clutch shifting
-5. Smoother decel when releasing/letting go/easing off throttle in full power and rain mode
+4. FALSE NEUTRAL FIX: Potentially resolves the false neutral issue for 1-2, and 2-1 quick shifter and
+   clutch shifting.
+5. SMOOTH DECE: Smoother decel when releasing/letting go/easing off throttle in full power and rain mode
+   stabilizing chassis.
 
 [3.0] CRITICAL MECHANICAL CONSTRAINTS & FLUID DISCLAIMER
 --------------------------------------------------------------------------------
