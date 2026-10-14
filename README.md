@@ -44,6 +44,5 @@
 
    
 --------------------------------------------------------------------------------
-This requires the WRT Tuning kit: [Woolich 2023-2026 ZX-4R / ZX-4RR Log Box M v3 Package](https://www.woolichracing.com/products/kawasaki/zx-4rr/0/1495/2023-2024-zx-4rr-log-box-m-v3-package.aspx) for flashing via OBD port under seat
 
-For more info on the project, and a step-by-step "How-To" DIY flash tune Walkthrough, see: https://www.zx4rforum.com/threads/rive03-rev2-2-70-whp-us-can-zx4rr-diy-jdm-unrestriction.3166/
+For more info on the project, see: https://www.zx4rforum.com/threads/rive03-rev2-2-70-whp-us-can-zx4rr-diy-jdm-unrestriction.3166/
