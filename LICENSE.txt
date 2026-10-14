@@ -1,20 +1,20 @@
-================================================================================
+=====================================================================
                            LICENSE / COMMERCIAL USE
-================================================================================
+=====================================================================
 
 This project calibration is provided for personal and commercial use. You may 
 use, modify, and redistribute this calibration framework subject to the 
 following conditions:
 
 1. ATTRIBUTION AND MODIFICATIONS
---------------------------------------------------------------------------------
+---------------------------------------------------------------------
 If you redistribute this calibration file, either in its original form or a 
 modified version, you must retain clear attribution to Rive03 as the original 
 creator and explicitly identify any subsequent modifications made to the 
 data fields or layout parameters.
 
 2. COMMERCIAL USE PERMISSION
---------------------------------------------------------------------------------
+---------------------------------------------------------------------
 Commercial use of this calibration is fully permitted. Commercial users, tuning 
 shops, and independent technicians may charge fees for services involving this 
 calibration, including but not limited to:
@@ -24,16 +24,16 @@ calibration, including but not limited to:
   * Technical Support and Consulting Services
 
 3. ENDORSEMENT LIMITATIONS
---------------------------------------------------------------------------------
+---------------------------------------------------------------------
 The Rive03 name and project identity must not be used to imply that a modified 
 or independently developed calibration is officially endorsed, certified, or 
 supported by Rive03 unless expressly authorized in writing.
 
 4. WARRANTY AND DISCLAIMER
---------------------------------------------------------------------------------
+---------------------------------------------------------------------
 THIS CALIBRATION IS PROVIDED "AS-IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
 IMPLIED. Users and commercial providers assume all risks and are solely 
 responsible for verifying, auditing, and validating the safety and suitability 
 of the calibration data for their specific vehicle hardware, configuration, 
 and operating environment.
-================================================================================
+=====================================================================
