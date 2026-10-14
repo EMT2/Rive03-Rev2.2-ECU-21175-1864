@@ -42,4 +42,6 @@
 --------------------------------------------------------------------------------
 1. RECOMMENDED FOR USE WITH FULL SYNTHETIC OIL, AND 93 AKI OCTANE FUEL
 
-2. For more info on the project, see: https://www.zx4rforum.com/threads/rive03-rev2-2-70-whp-us-can-zx4rr-diy-jdm-unrestriction.3166/
+   
+--------------------------------------------------------------------------------
+For more info on the project, see: https://www.zx4rforum.com/threads/rive03-rev2-2-70-whp-us-can-zx4rr-diy-jdm-unrestriction.3166/
