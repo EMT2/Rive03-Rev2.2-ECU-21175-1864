@@ -34,7 +34,7 @@
    found in early un-restriction iterations. Throttle response is now perfectly 
    crisp and predictable from a dead stop.
 4. FALSE NEUTRAL POTENTIAL FIX: Potentially resolves the false neutral issue
-   for 1-2, and 2-1 quick shifter and clutch shifting. This is still undergoing
+   for 1-2, and 2-1 quick shifter and clutch shifting. *This is still undergoing
    review and testing.
 6. SMOOTH DECEL: Throttle map adjustments are intended to smooth throttle closure
    and deceleration transitions in full-power and rain modes. Improved chassis stability
