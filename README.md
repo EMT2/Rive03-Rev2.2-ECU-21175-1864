@@ -10,7 +10,7 @@
  
  DEVELOPMENT:    CLEAN STANDALONE BRANCH VIA FACTORY JAPANESE JDM MAP ARCHITECTURE
  
-==============================================================================
+============================================================================
 
 [1.0] PERFORMANCE PROJECTION MATRIX
 --------------------------------------------------------------------------------
@@ -23,7 +23,7 @@
                              (TRUE AIR COEFFICIENT GPS TOP SPEED BOUNDARY: 134 MPH)
 
 [2.0] REV 2.2 STABILITY AMENDMENTS (WHAT CHANGED FROM REV 2.1)
---------------------------------------------------------------------------------
+------------------------------------------------------------------------------
 1. GRID DISCREPANCY ELIMINATION: Resolves the micro-shuddering caused by 
    regional axis differences between the original Japanese source files and the 
    North American domestic ECU layout grids.
@@ -41,10 +41,10 @@
    and wet-surface traction.
 
 [3.0] CRITICAL MECHANICAL CONSTRAINTS & FLUID DISCLAIMER
---------------------------------------------------------------------------------
+------------------------------------------------------------------------------
 1. RECOMMENDED FOR USE WITH FULL SYNTHETIC OIL, AND 93 AKI OCTANE FUEL
 
    
---------------------------------------------------------------------------------
+------------------------------------------------------------------------------
 
 For more info on the project, see: https://www.zx4rforum.com/threads/rive03-rev2-2-70-whp-us-can-zx4rr-diy-jdm-unrestriction.3166/
