@@ -20,28 +20,46 @@
 
 [2.0] REV 2.2.1 STABILITY AMENDMENTS (WHAT CHANGED FROM REV 2.1)
 --------------------------------------------------------------------------------
-1. GRID DISCREPANCY ELIMINATION: Resolves the micro-shuddering caused by regional axis differences between the original Japanese source files and the North American domestic ECU layout grids.
-2. 2X SURFACE SMOOTHING BLOCK: Implements a 2x vertical smoothing interpolation across rows 11,000 RPM through 12,000 RPM across all individual gear groups. Removes the jagged power "twitch" for a linear, relentless top-end drive.
-3. LOW-END DEAD ZONE CORRECTION: Fixes the 2nd gear low-RPM (2k-3k) bogging found in early un-restriction iterations. Throttle response is now perfectly crisp and predictable from a dead stop.
-4. FALSE NEUTRAL MITIGATION: Mitigated/Resolved the false neutral issue for 1-2, and 2-1 quick shifter autoblipper and clutch shifting. 2x vertical smoothing pass has completely eliminated the mechanical back-torque tension on the gear dogs.
-5. SMOOTH DECEL: Throttle map adjustments are intended to smooth throttle closure and deceleration transitions in full-power and rain modes. Improved chassis stability and wet-surface traction.
+1. GRID DISCREPANCY ELIMINATION: Resolves the micro-shuddering caused by 
+regional axis differences between the original Japanese source files and the 
+North American domestic ECU layout grids.
+2. 2X SURFACE SMOOTHING BLOCK: Implements a 2x vertical smoothing interpolation
+across rows 11,000 RPM through 12,000 RPM across all individual gear groups. 
+Removes the jagged power "twitch" for a linear, relentless top-end drive.
+3. LOW-END DEAD ZONE CORRECTION: Fixes the 2nd gear low-RPM (2k-3k) bogging
+found in early un-restriction iterations. Throttle response is now perfectly
+crisp and predictable from a dead stop.
+4. FALSE NEUTRAL MITIGATION: Mitigated/Resolved the false neutral issue for 1-2, 
+and 2-1 quick shifter autoblipper and clutch shifting. 2x vertical smoothing pass 
+has completely eliminated the mechanical back-torque tension on the gear dogs.
+5. SMOOTH DECEL: Throttle map adjustments are intended to smooth throttle closure 
+and deceleration transitions in full-power and rain modes. Improved chassis stability 
+and wet-surface traction.
 
 [3.0] CRITICAL MECHANICAL CONSTRAINTS & FLUID DISCLAIMER
 ================================================================================
 ⚠️ WARNING: THE REMOVAL OF ENVIRONMENTAL COMPLIANCE AIR CEILINGS DRASTICALLY 
 INCREASES HIGH-RPM THERMAL STRESS. YOU MUST ADHERE TO THE FOLLOWING RULES:
 ================================================================================
-* FUEL GRADE: recommended 93 AKI (98 RON globally). Do NOT use standard 87 AKI regular pump gas. This file pulls maximum ignition load and global fueling air parameters that require high-octane knock resistance.
-* CRANKCASE LUBRICANT:  Full Synthetic 10W-40 (KPO or equivalent). Taller rev windows slice mineral-based oils instantly. Keep level at 3/4 sight glass.
-* DRAIN INTERVALLING:   3,000 - 4,000 Miles Maximum (Street Commuting). Change oil and physical filter element every 3 to 4 Track Days for race duty.
+* FUEL GRADE: Recommend 93 AKI (98 RON globally). Although 91 AKI may provide adequate 
+knock resistance, it has not been validated for use with this calibration. Do NOT use 
+standard 87 AKI regular pump gas. This file pulls maximum ignition load and global fueling 
+air parameters that require high-octane knock resistance.
+* CRANKCASE LUBRICANT:  Full Synthetic 10W-40 (KPO or equivalent). Taller rev windows slice 
+mineral-based oils instantly. Keep level at 3/4 sight glass.
+* DRAIN INTERVALLING:   3,000 - 4,000 Miles Maximum (Street Commuting). Change oil and physical
+filter element every 3 to 4 Track Days for race duty.
 
 [4.0] REQUIRED INTERFACE HARDWARE & PRE-FLASH SAFETY SETUP
 --------------------------------------------------------------------------------
 * INTERFACE UNIT: Woolich (WRT) Tuning Kit Log Box M v3 Package (Kawasaki Type 2 Harness)
 Note that the link for this is available in the Walkthrough "How-To" below.
 * CONNECTION POINT: Red OBD Interface Port situated beneath the main rider seat.
-* CRITICAL POWER STEP: You MUST hook up a 12V battery tender/charger to the motorcycle battery before beginning. A voltage dip during the flash write window WILL lock and permanently brick the physical ECU hardware.
-* COMPUTER CONDITION: Ensure your flashing laptop is plugged into a wall outlet and windows update is entirely paused to prevent unexpected system shutdowns.
+* CRITICAL POWER STEP: You MUST hook up a 12V battery tender/charger to the motorcycle battery 
+before beginning. A voltage dip during the flash write window WILL lock and permanently brick the
+physical ECU hardware.
+* COMPUTER CONDITION: Ensure your flashing laptop is plugged into a wall outlet and windows update
+is entirely paused to prevent unexpected system shutdowns.
 
 [5.0] STEP-BY-STEP CALIBRATION WRITE WALKTHROUGH
 --------------------------------------------------------------------------------
@@ -65,7 +83,8 @@ Note that the link for this is available in the Walkthrough "How-To" below.
 9. If you are a factory-stock rider flashing your ECU for the first time, and need 
    a detailed walkthrough/guide, See: 
 
-   https://www.zx4rforum.com/threads/how-to-kawasaki-zx4rr-flash-tune-easy-diy-method-to-unrestrict-the-2023-2026-usa-can-21175-1875-zx4rr-no-downtime-no-disassembly.2370/
+https://www.zx4rforum.com/threads/how-to-kawasaki-zx4rr-flash-tune-easy-diy-method-to-unrestrict-
+the-2023-2026-usa-can-21175-1875-zx4rr-no-downtime-no-disassembly.2370/
 
 [6.0] REVERSING TO STOCK / RE-FLASHING MODIFICATIONS
 --------------------------------------------------------------------------------
