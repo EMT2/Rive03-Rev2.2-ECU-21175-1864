@@ -29,8 +29,8 @@ Removes the jagged power "twitch" for a linear, relentless top-end drive.
 3. LOW-END DEAD ZONE CORRECTION: Fixes the 2nd gear low-RPM (2k-3k) bogging
 found in early un-restriction iterations. Throttle response is now perfectly
 crisp and predictable from a dead stop.
-4. FALSE NEUTRAL MITIGATION: Mitigated/Resolved the false neutral issue for 1-2, 
-and 2-1 quick shifter autoblipper and clutch shifting. 2x vertical smoothing pass 
+4. FALSE NEUTRAL MITIGATION: Mitigates/resolves the false neutral issues for 1-2, 
+and 2-1 quick shifter autoblipper, and clutch shifting. 2x vertical smoothing pass 
 has completely eliminated the mechanical back-torque tension on the gear dogs.
 5. SMOOTH DECEL: Throttle map adjustments are intended to smooth throttle closure 
 and deceleration transitions in full-power and rain modes. Improved chassis stability 
