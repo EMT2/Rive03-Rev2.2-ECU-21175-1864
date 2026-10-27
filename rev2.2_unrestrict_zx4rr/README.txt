@@ -18,7 +18,7 @@
 * REAL-WORLD SPEED PROFILE:  141 MPH 5TH GEAR CAP / 146 MPH INDICATED 6TH GEAR CEILING
                              (TRUE AIR COEFFICIENT GPS TOP SPEED BOUNDARY: 134 MPH)
 
-[2.0] REV 2.2 STABILITY AMENDMENTS (WHAT CHANGED FROM REV 2.1)
+[2.0] REV 2.2.1 STABILITY AMENDMENTS (WHAT CHANGED FROM REV 2.1)
 --------------------------------------------------------------------------------
 1. GRID DISCREPANCY ELIMINATION: Resolves the micro-shuddering caused by regional axis differences between the original Japanese source files and the North American domestic ECU layout grids.
 2. 2X SURFACE SMOOTHING BLOCK: Implements a 2x vertical smoothing interpolation across rows 11,000 RPM through 12,000 RPM across all individual gear groups. Removes the jagged power "twitch" for a linear, relentless top-end drive.
