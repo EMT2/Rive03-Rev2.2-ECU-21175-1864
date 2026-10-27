@@ -80,8 +80,11 @@ is entirely paused to prevent unexpected system shutdowns.
    then click OK and cycle the key back to 'ON'.
 8. DISCONNECT: Turn the key 'OFF'. Disconnect all physical flashing hardware. 
    Replace the red OBD protective cap, reinstall your seat, and fire it up.
-9. If you are a factory-stock rider flashing your ECU for the first time, and need a detailed walkthrough/guide, See the [ZX4R Forum Walkthrough and DIY Guide](https://www.zx4rforum.com/threads/how-to-kawasaki-zx4rr-flash-tune-easy-diy-method-to-unrestrict-the-2023-2026-usa-can-21175-1875-zx4rr-no-downtime-no-disassembly.2370/).
+9. If you are a factory-stock rider flashing your ECU for the first time, and need 
+   a detailed walkthrough/guide, See: 
 
+www.zx4rforum.com/threads/how-to-kawasaki-zx4rr-flash-tune-easy-diy-method-to-unrestrict-
+the-2023-2026-usa-can-21175-1875-zx4rr-no-downtime-no-disassembly.2370/
 
 [6.0] REVERSING TO STOCK / RE-FLASHING MODIFICATIONS
 --------------------------------------------------------------------------------
