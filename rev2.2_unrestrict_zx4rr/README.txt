@@ -83,8 +83,7 @@ is entirely paused to prevent unexpected system shutdowns.
 9. If you are a factory-stock rider flashing your ECU for the first time, and need 
    a detailed walkthrough/guide, See: 
 
-https://www.zx4rforum.com/threads/how-to-kawasaki-zx4rr-flash-tune-easy-diy-method-to-unrestrict-
-the-2023-2026-usa-can-21175-1875-zx4rr-no-downtime-no-disassembly.2370/
+https://www.zx4rforum.com/threads/how-to-kawasaki-zx4rr-flash-tune-easy-diy-method-to-unrestrict-the-2023-2026-usa-can-21175-1875-zx4rr-no-downtime-no-disassembly.2370/
 
 [6.0] REVERSING TO STOCK / RE-FLASHING MODIFICATIONS
 --------------------------------------------------------------------------------
