@@ -1,6 +1,6 @@
 ================================================================================
           KAWASAKI NINJA ZX-4RR — STANDALONE JDM UNRESTRICTION LOGIC
-                     OFFICIAL CALIBRATION ARCHIVE: REV 2.2
+                     OFFICIAL CALIBRATION ARCHIVE: REV 2.2.1
 ================================================================================
  TARGET CHASSIS: 2023 - 2026 US / CANADA KAWASAKI NINJA ZX-4RR
  TARGET ECU ID:   21175-1875 ONLY (DO NOT WRITE TO STANDARD BASE FOUR-CYLINDER ZX-4R)
