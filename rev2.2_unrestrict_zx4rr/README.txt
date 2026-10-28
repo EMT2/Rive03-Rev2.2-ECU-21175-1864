@@ -94,7 +94,7 @@ apply customized parameters (such as enabling GP Shift / Race Quickshifter):
    restricted US/CAN stock file identification number: '21175-1875'.
 2. Write this stock bin to the ECU first. This resets the operating registry.
 3. Once the stock flash finishes, load your customized unlocked Rev 2.2 bin 
-   file, implement,save your manual tweaks, and execute a fresh write over the stock 
+   file, implement your manual tweaks, and execute a fresh write over the stock 
    baseline. This guarantees zero data fragmentation inside the map sectors.
 
 ================================================================================
