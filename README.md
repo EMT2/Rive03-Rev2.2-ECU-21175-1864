@@ -43,6 +43,8 @@
 [3.0] CRITICAL MECHANICAL CONSTRAINTS & FLUID DISCLAIMER
 ------------------------------------------------------------------------------
 1. RECOMMENDED FOR USE WITH FULL SYNTHETIC OIL, AND 93 AKI OCTANE FUEL
+   Although 91 AKI may provide adequate knock resistance, it has not been validated for use with
+   this calibration.
 
    
 ------------------------------------------------------------------------------
